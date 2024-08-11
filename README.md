@@ -6,3 +6,8 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Push existing file ->
+git remote add origin https://github.com/kushagrarastogi7007/currency-convertor
+PS D:\react\currencyConvertor> git branch -M main
+PS D:\react\currencyConvertor> git push -u origin main
